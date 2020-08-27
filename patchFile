@@ -1,0 +1,7 @@
+--- a.txt	2020-08-27 16:06:42.188226400 +0800
++++ b.txt	2020-08-27 16:06:43.912376900 +0800
+@@ -1 +1 @@
+-a
+\ No newline at end of file
++b
+\ No newline at end of file
